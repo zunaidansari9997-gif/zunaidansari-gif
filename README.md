@@ -89,4 +89,3 @@ I'm building my Data Analytics portfolio through practical projects.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:123B8A,100:050816&height=110&section=footer" width="100%"/>
 
 </div>
-
